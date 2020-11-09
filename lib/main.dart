@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:help/launcher/launcher_view.dart';
-import 'package:help/constant.dart';
+import 'package:helpme/launcher/launcher_view.dart';
+import 'package:helpme/constant.dart';
 import 'package:flutter/services.dart';
 
 void main() {

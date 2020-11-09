@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:help/landing/landingpage_view.dart';
+import 'package:helpme/landing/landingpage_view.dart';
 
 class LauncherPage extends StatefulWidget {
   @override

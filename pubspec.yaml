@@ -1,4 +1,4 @@
-name: help
+name: helpme
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -45,16 +45,16 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-    assets:
-     - assets/img_gojek_logo.png 
+  assets:
+    - assets/img_gojek_logo.png 
 
-    fonts:
+  fonts:
     - family: NeoSans
       fonts:
-        - asset: assets/fonts/NeoSansStd-Regular.otf
+      - asset: assets/fonts/NeoSansStd-Regular.otf
     - family: NeoSansBold
       fonts:
-        - asset: assets/fonts/NeoSansStd-Bold.otf
+      - asset: assets/fonts/NeoSansStd-Bold.otf
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
